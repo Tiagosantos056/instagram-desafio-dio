@@ -13,8 +13,9 @@ Foi incrementado uma função de Carousel Slider para melhorar o template
 
 ### Desafio de código da DIO
 
-*[DIO.me](https://www.dio.me/)
+* [DIO.me](https://www.dio.me/)
 
 
-*[Linkedin](https://www.linkedin.com/in/tiagoribeirodossantos/)
-*[Instagram](https://www.instagram.com/tiagoribeiro056/)
+* [Linkedin](https://www.linkedin.com/in/tiagoribeirodossantos/)
+
+* [Instagram](https://www.instagram.com/tiagoribeiro056/)
